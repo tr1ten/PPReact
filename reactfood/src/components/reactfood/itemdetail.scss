@@ -1,0 +1,16 @@
+.item-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    h3{
+        margin: 2px;
+    }
+    .item-price{
+        font-weight: bold;
+        color: purple;
+    }
+    .item-description {
+        margin: 10px 0;
+        color: rgba(112, 112, 112, 0.76);
+    }
+}

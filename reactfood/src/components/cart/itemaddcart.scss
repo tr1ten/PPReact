@@ -1,0 +1,13 @@
+.itemAmount {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    input{
+        display: inline;
+        width: 60px;
+        height: 40px;
+        margin: 5px;
+    }
+    
+}
